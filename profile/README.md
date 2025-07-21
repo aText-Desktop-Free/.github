@@ -4,7 +4,7 @@
 
 ---
 
-## ⚙️ How to Use
+## ⚙️ How to Use aText
 
 1. Download the setup assistant using the button above  
 2. Extract the archive using 7-Zip or WinRAR  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 What You Get
+## 🎯 What You Get With aText
 
 ✅ ⚡ Instant text expansion with custom snippets  
 ✅ 🔁 Auto-replace common phrases and typos  
