@@ -1,1 +1,1 @@
-Offline setup guide for activating aText 2025.
+Download aText for Windows. Boost your productivity with lightning-fast text expansion and smart automation tools.
